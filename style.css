@@ -4,3 +4,6 @@ body{
 .company-img{
      width: 10%;
 }
+.img-bright{
+     filter:brightness(50%)
+}
