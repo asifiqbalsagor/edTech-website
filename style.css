@@ -7,3 +7,6 @@ body{
 .img-bright{
      filter:brightness(50%)
 }
+.section-gap{
+     margin-bottom: 100px;
+}
